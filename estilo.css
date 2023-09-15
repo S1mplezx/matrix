@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-family: arial;
+    color: white;
+}
+
+.p2{
+    text-align: right;
+    font-family: arial;
+    color: white;
+}
+
+div{
+    position: relative;
+    margin-top: -3%;
+    margin-left: 90%;
+}
+
+.fundo{
+    
+   position: relative;
+   width: 90%;
+   height: 100px;
+   margin: right;
+}
+
+p{
+    font-family:verdana;
+    
+    position: absolute;
+    margin-top: -500px;
+    text-align: justify;
+    color: lightgreen;
+    width: 88%;
+    line-height: 1.2;
+}
+
